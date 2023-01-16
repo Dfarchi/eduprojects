@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed75fb3a-6acf-42cd-bb09-c82421c214ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/eduprojects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apartments/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apartments/.idea/Apartments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apartments/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apartments/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apartments/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apartments/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apartments/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBus/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBus/.idea/BestBus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBus/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBus/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBus/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBus/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBus/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D/.idea/D.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D/.idea/csv-editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F/.idea/F.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/G.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tables/.idea/Tables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tables/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tables/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/.idea/api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankclass/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankclass/.idea/bankclass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankclass/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankclass/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankclass/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankclass/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankclass/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decor/.idea/decor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decor/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decor/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebook/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebook/.idea/ebook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebook/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebook/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebook/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebook/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileopener/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileopener/.idea/fileopener.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileopener/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileopener/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileopener/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileopener/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ravkav/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ravkav/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ravkav/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ravkav/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ravkav/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ravkav/.idea/ravkav.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shapes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shapes/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shapes/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shapes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shapes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shapes/.idea/shapes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shapes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/store/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/store/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/store/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/store/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/store/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/store/.idea/store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_project_version_control/test-project-version-control/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_project_version_control/test-project-version-control/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_project_version_control/test-project-version-control/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_project_version_control/test-project-version-control/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_project_version_control/test-project-version-control/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_project_version_control/test-project-version-control/.idea/test-project-version-control.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_project_version_control/test-project-version-control/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/.idea/tictactoe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/tictactoe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/tictactoe/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/tictactoe/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/tictactoe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/tictactoe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/tictactoe/.idea/tictactoe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe/tictactoe/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KP3NqC2JnVXd1Vr2KuLqMhJiPm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/eduprojects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed75fb3a-6acf-42cd-bb09-c82421c214ed" name="Changes" comment="" />
+      <created>1673862356719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673862356719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

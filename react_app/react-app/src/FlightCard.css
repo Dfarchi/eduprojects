@@ -1,0 +1,36 @@
+<style>
+  .flight-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .origin {
+    order: 1;
+  }
+
+  .destination {
+    order: 3;
+  }
+
+  .seats {
+    order: 2;
+  }
+</style>
+
+<div class="flight-container">
+  <div class="origin">
+    <Pic origPic={flight.origin.img_url} />
+    <Time origTime={flight.origin.time} />
+  </div>
+
+  <div class="seats">
+    <Seats seats_left={flight.seats_left} />
+    <img src={arrow} alt="" />
+  </div>
+
+  <div class="destination">
+    <Pic destPic={flight.destination.img_url} />
+    <Time destTime={flight.destination.time} />
+  </div>
+</div>

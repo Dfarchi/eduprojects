@@ -3,7 +3,7 @@
 export default function Seats({seats_left}){
     
    let num_color = ''
-   console.log(seats_left)
+//    console.log(seats_left)
     if (seats_left >= 20){
         num_color = 'green'
     } else if (seats_left >= 8 && seats_left <20 ) {
